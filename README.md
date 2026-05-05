@@ -200,26 +200,35 @@ Built with passion for gamers worldwide. Enter the next dimension of gaming!
 
 ## Images
 
-<img width="1920" height="919" alt="NebulaX1" src="https://github.com/user-attachments/assets/3d00571a-d963-415e-b025-706c86cd86d4" />
 
-<img width="1920" height="921" alt="NebulaX2" src="https://github.com/user-attachments/assets/26dd5972-6906-4dba-a104-07d5353f0689" />
+<img width="1920" height="919" alt="NebulaX1" src="https://github.com/user-attachments/assets/36bdf383-fcdf-471a-bef8-c7031ce70e13" />
 
-<img width="1920" height="924" alt="NebulaX3" src="https://github.com/user-attachments/assets/4e440a6a-e6af-48da-85ce-e4b48e8b50dc" />
+<img width="1920" height="921" alt="NebulaX2" src="https://github.com/user-attachments/assets/d01a73b0-6a37-42e5-87ce-b1d7e76a23ac" />
 
-<img width="1917" height="919" alt="NebulaX4" src="https://github.com/user-attachments/assets/8297ee8c-fd93-468b-909e-63afdf32ee44" />
+<img width="1920" height="924" alt="NebulaX3" src="https://github.com/user-attachments/assets/f02496c5-c86f-4b24-90ba-40008d4fa567" />
 
-<img width="1920" height="922" alt="NebulaX5" src="https://github.com/user-attachments/assets/25e173b5-de12-41af-849d-e218d6611d7f" />
+<img width="1917" height="919" alt="NebulaX4" src="https://github.com/user-attachments/assets/c5777282-ebae-4bd6-9194-bd00404461b3" />
 
-<img width="1913" height="916" alt="NebulaX6" src="https://github.com/user-attachments/assets/320407e7-4049-4096-aec6-81c875c5ffce" />
+<img width="1920" height="922" alt="NebulaX5" src="https://github.com/user-attachments/assets/8f23fe50-8f7f-4435-b2dc-2339231e3360" />
 
-<img width="1895" height="910" alt="NebulaX7" src="https://github.com/user-attachments/assets/d638330e-17f6-40c7-b4db-e80ba1e44bae" />
+<img width="1913" height="916" alt="NebulaX6" src="https://github.com/user-attachments/assets/19c18a13-9a48-4263-9378-84e3c2ab6b55" />
 
-<img width="1920" height="918" alt="NebulaX8" src="https://github.com/user-attachments/assets/07e3a835-43c3-4739-9630-366aa446b636" />
+<img width="1895" height="910" alt="NebulaX7" src="https://github.com/user-attachments/assets/fad1ad9b-6d12-4150-a649-29f8458be267" />
 
-<img width="1920" height="899" alt="NebulaX9" src="https://github.com/user-attachments/assets/aa0d59da-e70b-476e-943f-7fc054c55c37" />
+<img width="1920" height="918" alt="NebulaX8" src="https://github.com/user-attachments/assets/d686df75-0e02-4f3e-8716-1a34d4afa658" />
 
-<img width="1920" height="905" alt="NebulaX10" src="https://github.com/user-attachments/assets/706d3815-fe0a-4126-bd27-6d3c73fb122a" />
+<img width="1920" height="899" alt="NebulaX9" src="https://github.com/user-attachments/assets/93425744-61da-4bdc-aaee-848879658d2b" />
 
-<img width="1920" height="905" alt="NebulaX11" src="https://github.com/user-attachments/assets/d7dcd059-f690-47c0-9933-726d4f0bf2ac" />
+<img width="1920" height="905" alt="NebulaX10" src="https://github.com/user-attachments/assets/29a03908-8c2d-4c94-8ba3-7736b19086ee" />
 
-<img width="1920" height="913" alt="NebulaX12" src="https://github.com/user-attachments/assets/5284e9fa-9a9d-4700-b093-c155372d5e97" />
+<img width="1920" height="905" alt="NebulaX11" src="https://github.com/user-attachments/assets/db3c9ac8-5bd1-4cda-af75-6939c06b26c4" />
+
+<img width="1920" height="913" alt="NebulaX12" src="https://github.com/user-attachments/assets/913371bb-3703-4c06-a4f8-baea692b19bc" />
+
+
+
+
+
+
+
+
